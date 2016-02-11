@@ -1,0 +1,36 @@
+_repo: Rebilius-Cruso-Robinson-Crusoe-in-Latin-a-book-to-lighten-tedium-to-a-learner_50732
+contributor:
+  translator:
+    agent_name: Newman, Francis William
+    alias: Newman, F. W. (Francis William)
+    birthdate: 1805
+    deathdate: 1897
+    gutenberg_agent_id: '4201'
+    url: http://www.gutenberg.org/2009/agents/4201
+    wikipedia: http://en.wikipedia.org/wiki/Francis_William_Newman
+creator:
+  author:
+    agent_name: Defoe, Daniel
+    aliases:
+    - John, Gabriel
+    - Moreton, Andrew
+    - Defo, Daniel
+    deathdate: 1731
+    gutenberg_agent_id: '204'
+    url: http://www.gutenberg.org/2009/agents/204
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/j#a26500
+    - http://en.wikipedia.org/wiki/Daniel_Defoe
+description: ''
+gutenberg_issued: '2015-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '50732'
+language: la
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'Rebilius Cruso
+
+  Robinson Crusoe, in Latin; a book to lighten tedium to a learner'
+url: http://www.gutenberg.org/ebooks/50732
