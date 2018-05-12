@@ -1,4 +1,5 @@
 _repo: Rebilius-Cruso-Robinson-Crusoe-in-Latin-a-book-to-lighten-tedium-to-a-learner_50732
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Newman, Francis William
@@ -8,6 +9,9 @@ contributor:
     gutenberg_agent_id: '4201'
     url: http://www.gutenberg.org/2009/agents/4201
     wikipedia: http://en.wikipedia.org/wiki/Francis_William_Newman
+covers:
+- cover_type: archival
+  image_path: 50732-h/images/cover.jpg
 creator:
   author:
     agent_name: Defoe, Daniel
@@ -22,6 +26,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/j#a26500
     - http://en.wikipedia.org/wiki/Daniel_Defoe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50732#Rebilius-Cruso-Robinson-Crusoe-in-Latin-a-book-to-lighten-tedium-to-a-learner
 gutenberg_issued: '2015-12-20'
 gutenberg_type: Text
 identifiers:
